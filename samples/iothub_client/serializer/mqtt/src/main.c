@@ -12,7 +12,7 @@ More info: https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-device-sdk-c-i
 
 int main(void)  
 {
-    mqtt_sample_run();
+    (void) mqtt_sample_run();
     
     return 0;
 }

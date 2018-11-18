@@ -29,4 +29,32 @@ target_link_libraries(
     iothub_client_mqtt_transport
     aziotsharedutil
     serializer
+    prov_auth_client
+    hsm_security_client
+    uhttp
+    parson
+    uuid
+    curl
+    ssl
+    umqtt
+    pthread
+    crypto
+    m
 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
